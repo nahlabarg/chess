@@ -1,0 +1,10 @@
+body{
+  width: 100%;
+  height: 100%;
+  background: rgba(187, 219, 230, 0.568);
+  padding:  10px;
+}
+
+#d1{
+margin: -20px;
+}
